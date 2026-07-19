@@ -2,9 +2,11 @@
 
 Chuẩn bị môi trường:
 Bash
+
 pip install redis
 
 Kết quả trên Terminal sẽ hiển thị dạng:
+
 Plaintext
 --- LUỒNG CHẠY LẦN 1 (Cache trống) ---
 ⚠️ [Redis] CACHE MISS! Dữ liệu không tồn tại trong cache.
