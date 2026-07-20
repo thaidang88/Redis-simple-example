@@ -14,7 +14,7 @@ def fetch_user_from_database(user_id):
         "id": user_id,
         "name": "Alex Nguyen",
         "role": "Software Engineer",
-        "company": "Bosch"
+        "company": "xxxxx Company"
     }
 
 # Hàm lấy thông tin User có áp dụng Redis Cache
